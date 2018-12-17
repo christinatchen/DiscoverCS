@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=GraphBuilder
+comment0.text=\ When\ we\ want\ to\ create\ a\ graph\ of\ some\ specific\ object\ type,\r\n\ we\ need\ to\ extend\ this\ abstract\ class.\ The\ child\ class\ will\ have\ to\ \r\n\ provide\ implementation\ for\ the\ "createOneThing()"\ method.\r\n\r\n\ Version\ 2017.11.13\ v.1.0\ \r\n\ Fixed\ tgf\ 1-based\ vs\ Vector\ 0-based\ discrepancy;\ \r\n\ changed\ name\ to\ addArcIndex(int,\ int)\ to\ clarify\ signature\r\n\r\n
+comment1.params=s
+comment1.target=java.lang.Object\ createOneThing(java.lang.String)
+comment1.text=\r\n\ To\ be\ overriden\ in\ the\ extension\ of\ this\ class\ \r\n\ (like\ the\ PersonGraphBuilder).\r\n\ It\ will\ create\ and\ return\ an\ object\ of\ the\ specific\ \r\n\ type\ the\ graph\ will\ contain,\ \ \ \ \ \ \ from\ the\ input\ string\ s.\r\n
+comment2.params=fileName
+comment2.target=AdjListsGraphPlus\ build(java.lang.String)
+comment2.text=\r\n\ Reads\ from\ the\ input\ .tgf\ file,\ line\ by\ line.\r\n\ Creates\ the\ vertex\ objects,\ and\ adds\ them\ to\ the\ graph.\r\n\ Then,\ adds\ the\ connections\ between\ the\ vertices.\r\n\ \r\n\ PRECONDITION\:\ the\ input\ file\ is\ in\ .tgf\ format\r\n
+numComments=3

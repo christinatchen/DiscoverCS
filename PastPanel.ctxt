@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PastPanel
+comment0.text=\r\n\ Creates\ PastPanel\ where\ user\ inputs\ past\ courses\ using\ checkboxes\r\n\r\n\ @author\ (Claire\ Cannatti,\ Christina\ Chen)\r\n\ @version\ (5/14/2018)\r\n
+comment1.params=past\ courses
+comment1.target=PastPanel(CourseList,\ CourseOfferings)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PastPanel\r\n\ \r\n\ @param\ past\ CourseList\ of\ past\ courses\r\n\ @param\ courses\ CourseOfferings\r\n
+numComments=2

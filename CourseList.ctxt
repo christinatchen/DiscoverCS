@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CourseList
+comment0.text=\r\n\ CS\ 230\ Final\ Project\r\n\ @author\ Zoe\ Allen\r\n\ @version\ 5/6/18\r\n\ \r\n\ The\ CourseList\ class\ creates\ a\ list\ of\ Courses.\r\n
+comment1.params=c
+comment1.target=void\ addCourse(Course)
+comment1.text=\r\n\ Add\ Course\ in\ sorted\ order\r\n\ \r\n\ @param\ c\ -\ a\ Course\r\n
+comment2.params=c
+comment2.target=boolean\ hasTaken(Course)
+comment2.text=\r\n\ Check\ to\ see\ if\ the\ user\ has\ taken\ a\ given\ course\r\n\ (Will\ use\ this\ method\ in\ Decision\ Tree)\r\n\ \r\n\ @param\ c\ -\ a\ Course\r\n\ @return\ boolean\ -\ true\ if\ the\ user\ has\ taken\ the\ course\ and\ false\ if\ not\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Returns\ a\ nicely\ formatted\ String\r\n\ \r\n\ @return\ String\ -\ nicely\ formatted\ String\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ Main\ method\ for\ testing\ \r\n\ Tests\ addCourse\ (in\ sorted\ order),\ removeCourse,\ and\ hasTaken\r\n
+numComments=5

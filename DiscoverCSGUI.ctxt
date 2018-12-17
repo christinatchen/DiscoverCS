@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=DiscoverCSGUI
+comment0.text=\r\n\ Puts\ all\ components\ of\ DiscoverCS\!\ GUI\ together\r\n\r\n\ @author\ (Claire\ Cannatti)\r\n\ @version\ (5/13/2018)\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

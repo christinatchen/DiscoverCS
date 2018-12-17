@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RecommendationsPanel
+comment0.text=\r\n\ Creates\ RecommendationsPanel\ with\ interactive\ Decision\ Tree.\r\n\r\n\ @author(Zoe\ Allen,\ Christina\ Chen,\ Claire\ Cannatti)\r\n\ @version\ (5/15/2018)\r\n
+comment1.params=past
+comment1.target=RecommendationsPanel(CourseList)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PastPanel\r\n\ \r\n\ @param\ CourseList\ of\ past\ courses\r\n
+numComments=2

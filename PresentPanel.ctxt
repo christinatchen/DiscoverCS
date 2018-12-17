@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=PresentPanel
+comment0.text=\r\n\ Creates\ PresentPanel\ where\ users\ can\ see\ courses\ they\ can\ take\ immediately\r\n\r\n\ @author\ (Claire\ Cannatti)\r\n\ @version\ (5/15/2018)\r\n
+comment1.params=past\ courses
+comment1.target=PresentPanel(CourseList,\ CourseOfferings)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PresentPanel\r\n\ \r\n\ @param\ past\ CourseList\ of\ past\ courses\r\n\ @param\ courses\ CourseOfferings\ of\ all\ courses\r\n
+numComments=2

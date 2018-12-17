@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CourseGraphBuilder
+comment0.text=\r\n\ Used\ to\ create\ a\ graph\ of\ Course\ objects.\ Extends\ GraphBuilder,\ implements\r\n\ createOneThing\ for\ reading\ course\ objects\ from\ a\ tgf\ file.\ Course\ string\ must\r\n\ be\ structured\ as\ follows\:\ dept;\ number;\ title;\ semester;\r\n\ \r\n\r\n\ @author\ (Christina\ Chen)\r\n\ @version\ (5/6/2018)\r\n
+comment1.params=s
+comment1.target=Course\ createOneThing(java.lang.String)
+comment1.text=\ creates\ a\ Course\ out\ of\ the\ input\ string,\ and\r\nreturns\ it
+numComments=2

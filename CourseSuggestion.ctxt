@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=CourseSuggestion
+comment0.text=\r\n\ CS230\ Final\ Project\r\n\ @author\ Zoe\ Allen\r\n\ @version\ 5/6/18\r\n\ \r\n\ The\ CourseSuggestion\ class\ creates\ a\ Decision\ Tree\ that\ gives\ suggestions\ of\ what\ course\ to\ take\ next\r\n\ based\ on\ a\ user's\ answers.\r\n
+comment1.params=courses
+comment1.target=CourseSuggestion(CourseList)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ CourseSuggestion\r\n\ Creates\ the\ decision\ tree\r\n\ \r\n\ @param\ CourseList\ of\ pastCourses\r\n
+comment2.params=
+comment2.target=javafoundations.LinkedBinaryTree\ getTree()
+comment3.params=suggestString
+comment3.target=java.util.LinkedList\ convertToLL(java.lang.String)
+comment3.text=\r\n\ Given\ that\ the\ Decision\ Tree\ is\ of\ Strings,\ the\ resulting\ String\ must\ be\ converted\ to\ \r\n\ its\ corresponding\ Linked\ List.\ \ This\ corresponding\ Linked\ List\ will\ then\ be\ iterated\ over\r\n\ to\ print\ out\ the\ suggested\ courses\r\n\ \r\n\ @param\ suggestString\ -\ the\ String\ starting\ with\ "Group"\ that\ corresponds\ to\ a\ particular\ LL\r\n\ @return\ LinkedList\ -\ the\ list\ of\ suggested\ courses\ that\ will\ be\ printed\ later\ in\ a\ nicely\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ formatted\ string\ in\ the\ suggest()\ method\r\n
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+comment4.text=\r\n\ main\ method\ to\ test\ the\ class\r\n
+numComments=5

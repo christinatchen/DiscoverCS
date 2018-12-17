@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FuturePanel
+comment0.text=\r\n\ Creates\ FuturePanel\ where\ user\ can\ select\ future\ courses\ they\ want\ to\ take\ and\ see\ the\ necessary\r\n\ prerequisites.\r\n\r\n\ @author\ (Christina\ Chen,\ Zoe\ Allen,\ Claire\ Cannatti)\r\n\ @version\ (5/15/2018)\r\n
+comment1.params=past\ courses
+comment1.target=FuturePanel(CourseList,\ CourseOfferings)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PastPanel\r\n
+numComments=2
